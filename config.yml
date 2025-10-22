@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://example.com
+baseURL: #
 
 # For features like Last modified, you
 # need to use a Git repository. If you
@@ -159,6 +159,12 @@ params:
       category: SereniaMC
     - name: Website
       category: SereniaMC
+    - name: Mojang Authentication
+      description: This will affect the ability to join our server if it is down.
+      category: External
+    - name: Xbox Live
+      description: This may impact Bedrock users from joining, and possibly Java.
+      category: External
     - name: Discord Bot
       category: External
 
