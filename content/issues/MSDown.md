@@ -4,7 +4,7 @@ date: 2025-10-29 15:30:00
 resolved: false
 severity: down
 affected:
-  - Xbox live
+  - Xbox Live
   - Mojang Authentication
 section: issue
 —
