@@ -3,4 +3,4 @@
 	url = https://github.com/cstate/cstate
 [submodule "themes/fenstate"]
 	path = themes/fenstate
-	url = https://github.com/PixelFen/sereniastatus
+	url = https://github.com/PixelFen/fenstate
